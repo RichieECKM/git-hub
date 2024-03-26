@@ -1,0 +1,17 @@
+step 1 cd
+ step 2 cd desktop
+step 3 mkdir {folder  creation )
+step 4 touch(file name )
+step 5 ls (checking files)
+---------------------------------------
+open github 
+create repository (new repository by clicking (+) button)
+create file name
+open git bash
+1----- type ls
+copy url from git hub(new repository url)
+2------ git clone (url)
+3------ls
+4-----cd file name
+
+ 
